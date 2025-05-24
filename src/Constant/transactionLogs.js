@@ -1,0 +1,36 @@
+// const/transactionLogs.js
+
+const transactionLogs = [
+  { id: 1, date: '2024-01-05', amount: '$120.00', status: 'Completed' },
+  { id: 2, date: '2024-01-08', amount: '$340.00', status: 'Pending' },
+  { id: 3, date: '2024-01-12', amount: '$210.00', status: 'Completed' },
+  { id: 4, date: '2024-01-15', amount: '$130.00', status: 'Completed' },
+  { id: 5, date: '2024-01-18', amount: '$90.00', status: 'Failed' },
+  { id: 6, date: '2024-01-21', amount: '$500.00', status: 'Completed' },
+  { id: 7, date: '2024-01-24', amount: '$230.00', status: 'Pending' },
+  { id: 8, date: '2024-01-26', amount: '$310.00', status: 'Completed' },
+  { id: 9, date: '2024-01-29', amount: '$450.00', status: 'Completed' },
+  { id: 10, date: '2024-02-01', amount: '$200.00', status: 'Completed' },
+  { id: 11, date: '2024-02-03', amount: '$220.00', status: 'Pending' },
+  { id: 12, date: '2024-02-05', amount: '$180.00', status: 'Completed' },
+  { id: 13, date: '2024-02-08', amount: '$310.00', status: 'Completed' },
+  { id: 14, date: '2024-02-10', amount: '$140.00', status: 'Failed' },
+  { id: 15, date: '2024-02-12', amount: '$600.00', status: 'Completed' },
+  { id: 16, date: '2024-02-15', amount: '$75.00', status: 'Completed' },
+  { id: 17, date: '2024-02-18', amount: '$450.00', status: 'Pending' },
+  { id: 18, date: '2024-02-20', amount: '$210.00', status: 'Completed' },
+  { id: 19, date: '2024-02-22', amount: '$380.00', status: 'Completed' },
+  { id: 20, date: '2024-02-25', amount: '$190.00', status: 'Completed' },
+  { id: 21, date: '2024-02-28', amount: '$230.00', status: 'Pending' },
+  { id: 22, date: '2024-03-01', amount: '$320.00', status: 'Completed' },
+  { id: 23, date: '2024-03-04', amount: '$180.00', status: 'Completed' },
+  { id: 24, date: '2024-03-06', amount: '$290.00', status: 'Failed' },
+  { id: 25, date: '2024-03-08', amount: '$480.00', status: 'Completed' },
+  { id: 26, date: '2024-03-10', amount: '$350.00', status: 'Completed' },
+  { id: 27, date: '2024-03-12', amount: '$270.00', status: 'Pending' },
+  { id: 28, date: '2024-03-15', amount: '$410.00', status: 'Completed' },
+  { id: 29, date: '2024-03-17', amount: '$290.00', status: 'Completed' },
+  { id: 30, date: '2024-03-20', amount: '$150.00', status: 'Completed' },
+];
+
+export default transactionLogs;
